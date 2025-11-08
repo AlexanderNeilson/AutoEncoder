@@ -12,7 +12,7 @@ sudo apt-get install -y python3 ffmpeg libdvdread4 libbluray-bdj libdvdcss2 udis
 pip install -r requirements.txt
 ```
 
-If you are working with blurays you'll need 'makemkv'. Depending on your OS you will have different [installation methods](https://makemkv.com/downloads)
+If you are working with blurays you'll need 'makemkv'. Depending on your OS you will have different [installation methods](https://makemkv.com/download/)
 
 
 ## Usage
